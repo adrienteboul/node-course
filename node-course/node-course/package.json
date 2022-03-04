@@ -1,0 +1,14 @@
+{
+  "name": "course",
+  "version": "0.0.0",
+  "description": "node-course",
+  "main": "app.js",
+  "author": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

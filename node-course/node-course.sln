@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "node-course", "node-course\node-course.njsproj", "{E250C928-68F8-465E-8A78-7DCAFF4553F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E250C928-68F8-465E-8A78-7DCAFF4553F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E250C928-68F8-465E-8A78-7DCAFF4553F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E250C928-68F8-465E-8A78-7DCAFF4553F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E250C928-68F8-465E-8A78-7DCAFF4553F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A2A8E4-51D0-4EC6-8A00-1D84232FCB0E}
+	EndGlobalSection
+EndGlobal
